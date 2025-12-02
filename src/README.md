@@ -6,7 +6,6 @@
 |---------|-------------|
 | `main.c` | **Ejemplo principal** - Demuestra todas las librerías |
 | `simple_vectors.s` | Vectores de interrupción para 6502 |
-| `vectors.s` | Vectores alternativos (con soporte IRQ) |
 
 ## main.c - Ejemplo Principal
 
